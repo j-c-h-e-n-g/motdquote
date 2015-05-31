@@ -1,5 +1,7 @@
 # motdquote
 
+[![Build Status](https://travis-ci.org/j-c-h-e-n-g/motdquote.png)](https://travis-ci.org/j-c-h-e-n-g/motdquote)
+
 Stolen from https://systembash.com/adding-random-quotes-to-the-bash-login-screen/ and in case that content ever goes away: 
 
 - `getquote.php` depends on `rss_php.php`
